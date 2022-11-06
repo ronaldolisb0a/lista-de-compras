@@ -1,0 +1,35 @@
+html{
+    background: cadetblue;
+}
+
+
+h1{
+    color: #fff;
+    background: cadetblue;
+    justify-content: center;
+    display: flex;
+    border-radius: 30px;
+
+}
+
+li{
+    justify-content: center;
+    display: flex;
+    border-radius: 6px;
+    background: rgb(127, 159, 219);
+    margin: 15px;
+    padding: 5px;
+}
+
+p{
+    justify-content: center;
+    display: flex;
+    border-radius: 30px;
+    background:rgb(127, 159, 219)
+}
+
+.caixa{
+    justify-content: center;
+    display: flex;
+    border-radius: 30px;
+}
